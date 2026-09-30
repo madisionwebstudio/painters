@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /mailer.php
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
